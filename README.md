@@ -10,4 +10,6 @@ for styling & animation, Tailwind CSS and CSS used
 
 for images, refered images from howl webpage itself.
 
-with chrome extensions, colours and font captured
+with chrome extensions, colours and font captured.
+
+Deployed link - https://howl-front-page.vercel.app/
