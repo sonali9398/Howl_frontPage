@@ -1,0 +1,22 @@
+.tertiary{
+    font-family: 'Montserrat', sans-serif;
+    color: #BD72D3;
+    font-weight: 700;
+}
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.parent{
+    margin-top: 15px;
+    display: grid;
+    grid-template-areas: 'a b c d e f' ;
+    grid-auto-columns: 130px 130px;
+    gap: 10px;
+    cursor: pointer;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    border-radius: 0.5rem;
+}

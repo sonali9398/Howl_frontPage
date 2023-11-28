@@ -1,0 +1,14 @@
+.text h1{
+    font-size: 70px;
+    font-weight: 600;
+    color: transparent;
+    -webkit-text-stroke-color: rgb(216, 158, 216);
+    -webkit-text-stroke-width: 1px;
+    font-family: 'Merriweather Sans', sans-serif;
+    font-family: 'Vina Sans', sans-serif;
+    margin-right: 20px;
+    line-height: normal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

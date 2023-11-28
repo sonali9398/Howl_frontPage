@@ -1,15 +1,13 @@
-# Getting Started with Create React App
+# Getting Started with App
+to start with App use 
+cd howl
+npm run start
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
+it will redirect to given url:
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+for styling & animation, Tailwind CSS and CSS used
+
+for images, refered images from howl webpage itself.
+
+with chrome extensions, colours and font captured

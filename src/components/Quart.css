@@ -1,0 +1,16 @@
+.threeImg{
+    height: 180px;
+    width: 180px;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    gap: 15px;
+    padding: 10px;
+    margin-right: 30px;
+    cursor: pointer;
+    background: linear-gradient(0,0,0,0.5);
+    background-size: cover;
+}
+.threeImg.hover{
+
+}
